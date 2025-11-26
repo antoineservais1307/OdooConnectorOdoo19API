@@ -1,0 +1,7 @@
+[
+    version = "1.0.0",
+    name = "OdooConnector",
+    description = "Connecteur Power BI pour Odoo ERP - Permet d'importer les données depuis votre instance Odoo",
+    author = "Antoine Servais Connectic",
+    minimumVersion = "2.80.0"
+]
